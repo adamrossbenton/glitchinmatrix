@@ -12,3 +12,7 @@ Character.create([
     {name: "Morpheus", description: "How do the glasses stay on?"},
     {name: "Agent Smith", description: "AAAAAAAAA"}
 ])
+
+Vehicle.create([
+    {name: "Nebuchadnezzar", style: "Spaceship"}
+])
